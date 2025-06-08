@@ -10,9 +10,7 @@
 
 This repository contains the practical implementations for the C++ Programming Lab Manual for Semester 3. Each practical is implemented as a separate C++ program with clear comments and expected outputs.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7buirYyX5BkP0tMs/giphy.gif" width="400" alt="C++ Programming"/>
-</div>
+
 
 ## 📁 Repository Structure
 
@@ -88,10 +86,6 @@ To run these programs, you need:
 </div>
 
 ## ✨ Features
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Features"/>
-</div>
 
 - 📝 Each practical is well-documented with comments
 - 🎯 Clear expected outputs are provided
