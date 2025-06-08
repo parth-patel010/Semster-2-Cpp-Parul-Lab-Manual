@@ -118,12 +118,10 @@ For any queries or suggestions, please feel free to open an issue in this reposi
 
 <div align="center">
   <h4>Phone : <b>+91 6353281799</b></h4>
-  <h4>Email : <b>patelstart@gmail.com</b></h4>
+  <h4>Email : <b>patelstartup@gmail.com</b></h4>
 </div>
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7bu6mXzX6z9B3Yqxy/giphy.gif" width="200" alt="Thank You"/>
-  <br>
   <strong>Happy Coding! 🚀</strong>
 </div> 
