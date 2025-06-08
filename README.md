@@ -117,7 +117,8 @@ This project is open source and available for educational purposes.
 For any queries or suggestions, please feel free to open an issue in this repository.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7bu5XzX6z9B3Yqxy/giphy.gif" width="300" alt="Contact"/>
+  <h4>Phone : <b>+91 6353281799</b></h4>
+  <h4>Email : <b>patelstart@gmail.com</b></h4>
 </div>
 
 ---
